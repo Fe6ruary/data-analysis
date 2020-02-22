@@ -1,0 +1,36 @@
+province,province_CH,lon_min,lon_max,lat_min,lat_max
+Shanghai,上海,120,123,30,32
+Yunnan,云南,97,107,21,30
+Heilongjiang,黑龙江,121,135.5,21,29.5
+Guangdong,广东,109,118,20,26
+Shanxi,山西,110,115,34,41
+Shandong,山东,114,123,34,39
+Hebei,河北,113,120,36,43
+Henan,河南,110,117,31,37
+Fujian,福建,115,121,23,29
+Liaoning,辽宁,118,126,38,44
+Jilin,吉林,121,132,40,47
+Jiangsu,江苏,116,122,30,36
+Jiangxi,江西,112,119,24,30
+Zhejiang,浙江,117,124,27,32
+Anhui,安徽,114,120,29,35
+Hubei,湖北,108,117,29,34
+Hunan,湖南,108,115,24,31
+Shaanxi,陕西,105,112,31,40
+Gansu,甘肃,92,109,32,43
+taiwan,台湾,119,125,20,26
+Hainan,海南,108,112,18,21
+Sichuan,四川,97,109,26,35
+Nei Mongol,内蒙古,97,127,37,54
+Qinghai,青海,89,104,31,40
+Ningxia Hui,宁夏,104,108,35,40
+Xizang,西藏,78,100,26,37
+Xinjiang Uygur,新疆,73,97,34,50
+Guangxi,广西,104,113,20,27
+xianggang,香港,113,115,22,23
+aomen,澳门,113,114,22,23
+taiwan,台湾,119,125,20,26
+Chongqing,重庆,105,111,28,33
+Beijing,北京,115,118,39,42
+Guizhou,贵州,103,110,24,30
+Tianjin,天津,116,119,38,41
